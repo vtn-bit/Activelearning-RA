@@ -13,3 +13,4 @@ streamlit
 gspread
 oauth2client
 pprintpp
+python-docx
