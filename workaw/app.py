@@ -306,7 +306,7 @@ def log_interaction(question, answer):
 st.markdown('<div class="main-header"><h1>👩‍🏫 วิชา Instructional Science & Classroom Management</h1><p>แชทบอทอัจฉริยะสำหรับการเรียนการสอน</p></div>', unsafe_allow_html=True)
 
 # ✅ โหลดเอกสาร
-file_path = r"dataset3.docx"
+file_path = r"workaw/dataset3.docx"
 file_content, paragraphs = load_document(file_path)
 
 # ✅ ตั้งค่า messages เริ่มต้น
